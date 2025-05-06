@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    direction: rtl;
+    text-align: center;
+    background-color: wheat;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color:green;
+    color: black;
+    padding: 30px;
+  }
+  
+  nav a {
+    float: right;
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+    border: 2px solid white; 
+    padding: 5px 10px;  
+    border-radius: 5px;   
+  }
